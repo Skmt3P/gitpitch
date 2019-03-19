@@ -54,12 +54,13 @@
 ---?color=#00BF81
 @title[テーマ選定7]
 
-## それらは技術書典6でいっか！
-
-@img[shadow](assets/img/techbookfest.png)
-@snap[sauth span-10]
+### それらは技術書典6でいっか！
 https://scrapbox.io/skmt3p/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B86(%E3%81%9309)%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%A0%92%E5%B8%83%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+
+@snap[sauth span-30]
+@img[shadow](assets/img/techbookfest.png)
 @snapend
+
 
 ---
 
