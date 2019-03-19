@@ -1,7 +1,7 @@
----?color=##00BF81
+---?color=#00BF81
 # Let's Host Study Sessions！
 
----?color=##00BF81
+---?color=#00BF81
 @title[Add A Little Imagination]
 
 @snap[north-west]
