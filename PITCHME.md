@@ -9,11 +9,13 @@
 ## 自己紹介
 @snapend
 
-@snap[west span-55]
+@snap[west span-50]
+@ul[spaced text-white]
 - Name : 坂本さん ( @Skmt3P )
 - Job  : 個人事業主のエンジニア @町田
 - Tech : Vue.js, Nuxt.js, Firebase, CircleCI
 - Other: 技術書典6に出展予定(こ09)
+@ulend
 @snapend
 
 @snap[east span-45]
