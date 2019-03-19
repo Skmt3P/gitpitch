@@ -54,9 +54,11 @@
 ---?color=#00BF81
 @title[テーマ選定7]
 
+@snap[north span-30]
 ### それらは技術書典6でいっか！
+@snapend
 
-@snap[south span-60]
+@snap[south span-70]
 @img[shadow](assets/img/qrcode.png)
 @snapend
 
