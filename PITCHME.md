@@ -1,25 +1,18 @@
 ---?color=#00BF81
+@title[TOP]
 # Let's Host Study Sessions！
 
 ---?color=#00BF81
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
+@title[自己紹介]
+## 自己紹介
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Name : 坂本さん ( @Skmt3P )
+- Job  : 個人事業主のエンジニア @町田
+- Tech : Vue.js, Nuxt.js, Firebase, CircleCI
+- Other: 技術書典6に出展予定(こ09)
 @ulend
-@snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+@img[shadow](assets/img/profile.png)
 
 ---
 
