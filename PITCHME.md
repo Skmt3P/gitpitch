@@ -60,7 +60,7 @@
 @img[shadow](assets/img/techbookfest.png)
 @snapend
 
-@snap[sauth-east]
+@snap[sauth-east span-100]
 @img[shadow](assets/img/qrcode.png)
 @snapend
 
