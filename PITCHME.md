@@ -10,11 +10,11 @@
 @snapend
 
 @snap[west span-60]
-- 坂本さん ( @Skmt3P ) <br>
-- 個人事業主のエンジニア <br>
-- 活動拠点は*東京都町田市* <br>
-- FWはVue.js, Nuxt.js 他 <br>
-- 技術書典6(こ09)出展予定
+- 名前：坂本さん ( @Skmt3P ) <br>
+- 肩書：個人事業主のエンジニア <br>
+- 拠点：*東京都町田市* <br>
+- 技術：Vue.js, Nuxt.js 他 <br>
+- 備考：技術書典6(こ09)出展予定
 @snapend
 
 @snap[east span-40]
