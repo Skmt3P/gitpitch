@@ -10,9 +10,9 @@
 @snapend
 
 @snap[west span-60]
-- Name : 坂本さん ( @Skmt3P )
-- Job  : 個人事業主のエンジニア @町田
-- Tech : Vue.js, Nuxt.js, Firebase, CircleCI
+- Name : 坂本さん ( @Skmt3P ) <br>
+- Job  : 個人事業主のエンジニア @町田 <br>
+- Tech : Vue.js, Nuxt.js, Firebase, CircleCI <br>
 - Other: 技術書典6に出展予定(こ09)
 @snapend
 
