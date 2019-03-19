@@ -54,7 +54,7 @@
 ---?color=#00BF81
 @title[テーマ選定7]
 
-@snap[north span-30]
+@snap[north]
 ### それらは技術書典6でいっか！
 @snapend
 
