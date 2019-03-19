@@ -1,7 +1,7 @@
----?color=#
-# 勉強会を主催しよう！
+---?color=##00BF81
+# Let's Host Study Sessions！
 
----?color=#E58537
+---?color=##00BF81
 @title[Add A Little Imagination]
 
 @snap[north-west]
