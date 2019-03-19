@@ -9,15 +9,15 @@
 ### 自己紹介
 @snapend
 
-@snap[west span-55]
+@snap[west span-60]
 - 坂本さん ( @Skmt3P ) <br>
-- Self-employed Engineer <br>
-- *東京都町田市* <br>
-- Vue.js, Nuxt.js 他 <br>
-- 技術書典6(こ09)
+- 個人事業主のエンジニア <br>
+- 活動拠点は*東京都町田市* <br>
+- FWはVue.js, Nuxt.js 他 <br>
+- 技術書典6(こ09)出展予定
 @snapend
 
-@snap[east span-45]
+@snap[east span-40]
 @img[shadow](assets/img/profile.png)
 @snapend
 
