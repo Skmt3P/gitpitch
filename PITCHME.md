@@ -56,11 +56,11 @@
 
 ### それらは技術書典6でいっか！
 
-@snap[sauth-west span-50]
+@snap[sauth-west]
 @img[shadow](assets/img/techbookfest.png)
 @snapend
 
-@snap[sauth-east span-50]
+@snap[sauth-east]
 @img[shadow](assets/img/qrcode.png)
 @snapend
 
