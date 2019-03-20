@@ -1,7 +1,7 @@
 ---?color=#00BF81
 @title[TOP]
 @snap[west span-100 text-white startend]
-@size[5rem](勉強会に参加しよう！)
+@size[4rem](勉強会に参加しよう！)
 @snapend
 
 ---?color=#00BF81
@@ -148,5 +148,5 @@
 ---?image=assets/img/majan.png
 @title[END]
 @snap[west span-100 text-white startend]
-@size[5rem](良い勉強会ライフを！)
+@size[4rem](良い勉強会ライフを！)
 @snapend
