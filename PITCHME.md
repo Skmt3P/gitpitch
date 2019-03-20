@@ -51,18 +51,24 @@
 
 # フリーランスの実態?
 
----?color=#00BF81
++++?color=#00BF81
 @title[テーマ選定7]
+
+# それとも・・・
+
+---?color=#00BF81
+@title[テーマ選定8と告知]
 
 @snap[north span-100]
 ### それらは技術書典6でいっか！
 @snapend
 @img[shadow](assets/img/qrcode.png)
 
----
-
-## Add Some Slide Candy
-
+---?color=#00BF81
+@title[テーマ決定]
+@snap[north span-100 headline]
+### 今日は勉強会の話をしよう
+@snapend
 ![](assets/img/presentation.png)
 
 ---
