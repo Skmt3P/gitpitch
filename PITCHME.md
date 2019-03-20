@@ -11,10 +11,10 @@
 @snapend
 @snap[west span-60]
 名前：坂本さん ( @Skmt3P ) <br>
-肩書：個人事業主のエンジニア <br>
+肩書：個人事業主/エンジニア <br>
 拠点：**東京都町田市** <br>
 技術：Vue.js, Nuxt.js 他 <br>
-活動：技術書典6(こ09)出展予定
+活動：技術書典6(こ09)出展
 @snapend
 @snap[east span-40]
 @img[shadow](assets/img/profile.png)
@@ -100,7 +100,7 @@
 ---?color=#00BF81
 @title[個人として参加しよう]
 @snap[north span-100 headline]
-### 個人として参加するメリットは？
+### 個人として参加すると？
 @snapend
 @snap[west span-45]
 - 知見が得られる <br>
@@ -116,7 +116,7 @@
 ---?color=#00BF81
 @title[企業として参加しよう]
 @snap[north span-100 headline]
-### 企業として参加するメリットは？
+### 企業として参加すると？
 @snapend
 @snap[west span-55]
 - **ダイマ**できる <br>
