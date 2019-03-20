@@ -27,6 +27,11 @@ logo-postion : top-left
 layout : center
 
 #
+# Transition Setting
+# Doc: https://gitpitch.com/docs/settings/transition/#slide-specific-transition-override
+#
+transition : fade
+#
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #

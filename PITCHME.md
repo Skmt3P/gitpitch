@@ -4,11 +4,9 @@
 
 ---?color=#00BF81
 @title[自己紹介]
-
 @snap[north-west]
 ### 自己紹介
 @snapend
-
 @snap[west span-60]
 名前：坂本さん ( @Skmt3P ) <br>
 肩書：個人事業主のエンジニア <br>
@@ -16,53 +14,93 @@
 技術：Vue.js, Nuxt.js 他 <br>
 活動：技術書典6(こ09)出展予定
 @snapend
-
 @snap[east span-40]
 @img[shadow](assets/img/profile.png)
 @snapend
 
 ---?color=#00BF81
 @title[テーマ選定1]
-
 # 今日のテーマどうしよ？
 
 +++?color=#00BF81
 @title[テーマ選定2]
-
 # Nuxt.js?
 
 +++?color=#00BF81
 @title[テーマ選定3]
-
 # Firebase?
 
 +++?color=#00BF81
 @title[テーマ選定4]
-
 # CircleCI?
 
 +++?color=#00BF81
 @title[テーマ選定5]
-
 # 技術書執筆やRe:VIEW?
 
 +++?color=#00BF81
 @title[テーマ選定6]
-
 # フリーランスの実態?
 
 +++?color=#00BF81
 @title[テーマ選定7]
-
-# それとも・・・
+# それとも...
 
 ---?color=#00BF81
 @title[テーマ選定8と告知]
-
-@snap[north span-100]
+@snap[north span-100 headline]
 ### それらは技術書典6でいっか！
 @snapend
 @img[shadow](assets/img/qrcode.png)
+
+---?color=#00BF81
+@title[テーマ選定9]
+# 今日は！
+
+---?color=#00BF81
+@title[テーマ決定]
+@snap[north span-100 headline]
+### 勉強会の話をしよう！
+@snapend
+![](assets/img/presentation.png)
+
+---?color=#00BF81
+@title[勉強会とは？]
+@snap[north span-100 headline]
+### 勉強会とは
+@snapend
+@snap[west span-60]
+- 発表会 <br>
+- LT大会 <br>
+- ハンズオン <br>
+- もくもく会 <br>
+- 輪読会　等
+@snapend
+
+@snap[east span-40]
+@img[shadow](assets/img/study.png)
+@snapend
+
+---?color=#00BF81
+@title[例えばこんな勉強会]
+@snap[north span-100 headline]
+### 今日は勉強会の話をしよう
+@snapend
+![](assets/img/presentation.png)
+
+---?color=#00BF81
+@title[勉強会を主催する利点は？]
+@snap[north span-100 headline]
+### 今日は勉強会の話をしよう
+@snapend
+![](assets/img/presentation.png)
+
+---?color=#00BF81
+@title[主催する方法は]
+@snap[north span-100 headline]
+### 今日は勉強会の話をしよう
+@snapend
+![](assets/img/presentation.png)
 
 ---?color=#00BF81
 @title[テーマ決定]
@@ -71,8 +109,10 @@
 @snapend
 ![](assets/img/presentation.png)
 
----
-@title[Customize Slide Layout]
+
+
+---?color=#00BF81
+@title[]
 
 @snap[west span-50]
 ## Customize Slide Content Layout
