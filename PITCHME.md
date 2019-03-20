@@ -145,6 +145,6 @@
 
 ---?image=assets/img/majan.png
 @title[END]
-@snap[west span-100 text-white]
-@size[2.5rem](良い勉強会ライフを！)
+@snap[west span-100 text-white end]
+@size[3rem](良い勉強会ライフを！)
 @snapend
