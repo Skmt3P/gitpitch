@@ -57,10 +57,7 @@
 @snap[north span-100]
 ### それらは技術書典6でいっか！
 @snapend
-
-@snap[south span-100]
 @img[shadow](assets/img/qrcode.png)
-@snapend
 
 ---
 
