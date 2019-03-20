@@ -30,7 +30,7 @@ layout : center
 # Transition Setting
 # Doc: https://gitpitch.com/docs/settings/transition/#slide-specific-transition-override
 #
-transition : fade
+transition : slide
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote

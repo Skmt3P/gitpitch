@@ -1,6 +1,6 @@
 ---?color=#00BF81
 @title[TOP]
-# Let's Host Study Sessions！
+# Let's Host Study Session！
 
 ---?color=#00BF81
 @title[自己紹介]
@@ -67,26 +67,33 @@
 ---?color=#00BF81
 @title[勉強会とは？]
 @snap[north span-100 headline]
-### 勉強会とは
+### Study Session ≒ Conference
 @snapend
-@snap[west span-60]
+@snap[west span-40]
 - 発表会 <br>
 - LT大会 <br>
 - ハンズオン <br>
 - もくもく会 <br>
-- 輪読会　等
+- 輪読会 <br>
+- 交流会　等
 @snapend
-
-@snap[east span-40]
-@img[shadow](assets/img/study.png)
+@snap[east span-60]
+![](assets/img/study.png)
 @snapend
 
 ---?color=#00BF81
 @title[例えばこんな勉強会]
 @snap[north span-100 headline]
-### 今日は勉強会の話をしよう
+### Connpass等で調べると
 @snapend
-![](assets/img/presentation.png)
+@snap[west span-100]
+- ng-japan 2019 <br>
+- We Are JavaScripters! @30th<br>
+- Nuxt+FirebaseでWEBサービスを作るハンズオン <br>
+- 技術書典6 もくもく執筆レビュー会 <br>
+- 基礎から学ぶVue.js 輪読会&もくもく勉強会 <br>
+- NuxtMeetUp　等
+@snapend
 
 ---?color=#00BF81
 @title[勉強会を主催する利点は？]
