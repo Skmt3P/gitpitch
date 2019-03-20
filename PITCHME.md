@@ -130,7 +130,7 @@
 ---?color=#00BF81
 @title[参加する方法は]
 @snap[north span-100 headline]
-#### 個人はConnpassで参加！企業なら・・・
+#### 個人ならConnpassから参加！企業なら・・・
 @snapend
 @snap[west span-55]
 - 主催 <br>
@@ -146,5 +146,5 @@
 ---?image=assets/img/majan.png
 @title[END]
 @snap[west span-100 text-white]
-# 良い勉強会ライフを！
+良い勉強会ライフを！
 @snapend
