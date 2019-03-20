@@ -1,6 +1,6 @@
 ---?color=#00BF81
 @title[TOP]
-# Let's Host Study Session！
+# 勉強会に参加しよう！
 
 ---?color=#00BF81
 @title[自己紹介]
@@ -67,7 +67,7 @@
 ---?color=#00BF81
 @title[勉強会とは？]
 @snap[north span-100 headline]
-### Study Session ≒ Conference
+### 勉強会 ≒ カンファレンス
 @snapend
 @snap[west span-40]
 - 発表会 <br>
@@ -96,27 +96,56 @@
 @snapend
 
 ---?color=#00BF81
-@title[勉強会を主催する利点は？]
+@title[個人として参加しよう]
 @snap[north span-100 headline]
-### 今日は勉強会の話をしよう
+### 個人として参加するメリットは？
 @snapend
-![](assets/img/presentation.png)
+@snap[west span-45]
+- 知見が得られる <br>
+- 交流や**営業**できる <br>
+- フォロワー増える <br>
+- いい経験になる <br>
+- **情報交換**できる
+@snapend
+@snap[east span-55]
+![](assets/img/people.png)
+@snapend
 
 ---?color=#00BF81
-@title[主催する方法は]
+@title[企業として参加しよう]
 @snap[north span-100 headline]
-### 今日は勉強会の話をしよう
+### 企業として参加するメリットは？
 @snapend
-![](assets/img/presentation.png)
+@snap[west span-55]
+- **ダイマ**できる <br>
+- **採用活動**できる <br>
+- 社員の教育できる <br>
+- フォロワー増える <br>
+- **情報交換**できる
+@snapend
+@snap[east span-45]
+![](assets/img/company.png)
+@snapend
 
 ---?color=#00BF81
-@title[テーマ決定]
+@title[参加する方法は]
 @snap[north span-100 headline]
-### 今日は勉強会の話をしよう
+### 個人ならConnpass。企業なら・・・
 @snapend
-![](assets/img/presentation.png)
+@snap[west span-55]
+- 主催 <br>
+- 会場提供スポンサー <br>
+- 飲食物提供スポンサー <br>
+- 金銭提供パートナー <br>
+- パトロン
+@snapend
+@snap[east span-45]
+![](assets/img/money.png)
+@snapend
 
-
+---?image=assets/img/majan.png
+@title[END]
+# 良い勉強会ライフを！
 
 ---?color=#00BF81
 @title[]
