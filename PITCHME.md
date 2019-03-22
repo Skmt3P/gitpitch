@@ -69,7 +69,31 @@
 ![](assets/img/neet_man.png)
 
 ---?color=#00BF81
-@title[勉強会とは？]
+@title[例]
+@snap[north span-100 headline]
+#### 個人開発はロジックだけ考えて生きたい
+@snapend
+@snap[west span-40]
+❌ 環境構築 <br>
+❌ デザイン <br>
+❌ 共通する部品 <br>
+❌ フォルダ構成 <br>
+❌ ソースの書式 <br>
+❌ DevOps 等
+@snapend
+@snap[east span-60]
+![](assets/img/neet_woman.png)
+@snapend
+
+---?color=#00BF81
+@title[主張]
+@snap[north span-100 headline]
+#### "Done is better than perfect"とはいうけど
+@snapend
+### Done is MURI!
+
+---?color=#00BF81
+@title[だから]
 @snap[north span-100 headline]
 #### 個人開発はロジックだけ考えて生きたい
 @snapend
