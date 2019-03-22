@@ -104,7 +104,7 @@
 ---?color=#00BF81
 @title[神託]
 @snap[north span-100 headline]
-#### 神託
+## 神託
 @snapend
 @snap[west span-100]
 ### Prettierとlintを疑ってはならない
@@ -114,7 +114,7 @@
 ---?color=#00BF81
 @title[神の導入]
 @snap[north span-100 headline]
-#### 神を導入する
+### 神を導入する
 @snapend
 ```
 $ yarn add --dev eslint eslint-config-prettier 
@@ -124,7 +124,7 @@ $ yarn add --dev eslint eslint-config-prettier
 ---?color=#00BF81
 @title[神を動かす]
 @snap[north span-100 headline]
-#### 神の社を建立する
+### 神の社を建立する
 @snapend
 ```
 "scripts": {
@@ -136,7 +136,7 @@ $ yarn add --dev eslint eslint-config-prettier
 ---?color=#00BF81
 @title[神の御技]
 @snap[north span-100 headline]
-#### 神の御技を拝観する
+### 神の御技を拝観する
 @snapend
 ```
 $ yarn format && yarn lint
@@ -145,7 +145,7 @@ $ yarn format && yarn lint
 ---?color=#00BF81
 @title[結果]
 @snap[north span-100 headline]
-# 😇
+## 😇
 @snapend
 ```
 No problems have been detected in the workspace so far.
