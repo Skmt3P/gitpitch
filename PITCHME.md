@@ -2,6 +2,7 @@
 @title[TOP]
 @snap[west span-100 text-white startend]
 @size[4rem](みどりいろモザイク番外編)
+<br>
 @size[4rem](無思考型個人開発のススメ)
 @snapend
 
@@ -63,7 +64,7 @@
 ---?color=#00BF81
 @title[テーマ決定]
 @snap[north span-100 headline]
-#### 無思考型個人開発(造語)の話をしよう！
+#### 無思考型個人開発(=造語)の話をしよう！
 @snapend
 ![](assets/img/neet_man.png)
 
@@ -73,12 +74,12 @@
 #### 個人開発はロジックだけ考えて生きたい
 @snapend
 @snap[west span-40]
+❌ 環境構築 <br>
+❌ フォルダ構成 <br>
 ❌ デザイン <br>
 ❌ 共通する部品 <br>
-❌ 共通する文言 <br>
 ❌ ソースの書式 <br>
-❌ フォルダ構成 <br>
-❌ 環境構築　等
+❌ DevOps 等
 @snapend
 @snap[east span-60]
 ![](assets/img/neet_woman.png)
@@ -87,7 +88,7 @@
 ---?color=#00BF81
 @title[例えばこんな勉強会]
 @snap[north span-100 headline]
-### Connpass等で調べると
+#### 考えずに生きていける個人開発にしよう
 @snapend
 @snap[west span-100]
 - ng-japan 2019 <br>
