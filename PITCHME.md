@@ -11,14 +11,14 @@
 @snap[north-west text-white]
 @size[3rem](自己紹介)
 @snapend
-@snap[west span-60 text-white]
+@snap[west span-65 text-white]
 名前：坂本さん ( @Skmt3P ) <br>
 肩書：個人事業主/エンジニア <br>
 拠点：**東京都町田市** <br>
 技術：Vue.js, Nuxt.js 他 <br>
 活動：4月からVue案件
 @snapend
-@snap[east span-40]
+@snap[east span-35]
 @img[shadow](assets/img/profile_qr.png)
 @snapend
 
