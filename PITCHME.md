@@ -107,8 +107,8 @@
 #### 神託「Prettierとlintを疑ってはならない」
 @snapend
 @snap[west span-100]
----?gist=a6e0d63e637a7292b12b15ef124c91fd#file-gitpitch_20190322-1
-@[2][]
+---?gist=a6e0d63e637a7292b12b15ef124c91fd
+@[2]
 @snapend
 
 ---?color=#00BF81
