@@ -1,17 +1,17 @@
 ---?color=#00BF81
 @title[TOP]
 @snap[west span-100 text-white startend]
-@size[4rem](みどりいろモザイク番外編)
+@size[2rem](みどりいろモザイク番外編)
 <br>
 @size[4rem](無思考型個人開発のススメ)
 @snapend
 
 ---?image=assets/img/profile_green.png
 @title[自己紹介]
-@snap[north-west]
+@snap[north-west text-white]
 ### 自己紹介
 @snapend
-@snap[west span-60]
+@snap[west span-60 text-white]
 名前：坂本さん ( @Skmt3P ) <br>
 肩書：個人事業主/エンジニア <br>
 拠点：**東京都町田市** <br>
@@ -107,7 +107,7 @@
 ## 神託
 @snapend
 @snap[west span-100]
-## Prettierとlintを信じよ
+## Prettierとlintを信じよ！
 @snapend
 
 
@@ -156,19 +156,19 @@ No problems have been detected in the workspace so far.
 @snap[north span-100 headline]
 #### 本日のまとめ
 @snapend
-@snap[west span-55]
-- 個人開発は楽しよう <br>
+@snap[west span-65]
+- 個人開発は無思考でいこう <br>
 - 楽しないとDoneできない <br>
 - 規約とDevOpsを導入しよう <br>
-- MBAが欲しい・・・ <br>
+- MBPが欲しい・・・ <br>
 - 技術書典6よろしくね！
 @snapend
-@snap[east span-45]
+@snap[east span-35]
 ![](assets/img/qrcode.png)
 @snapend
 
 ---?color=#00BF81
 @title[END]
 @snap[west span-100 text-white startend]
-@size[4rem](良い無思考型個人開発ライフを！)
+@size[3rem](良い無思考型個人開発ライフを！)
 @snapend
