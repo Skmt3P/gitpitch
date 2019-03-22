@@ -14,7 +14,7 @@
 肩書：個人事業主/エンジニア <br>
 拠点：**東京都町田市** <br>
 技術：Vue.js, Nuxt.js 他 <br>
-活動：技術書典6(こ09)出展
+活動：4月からやっとVue案件
 @snapend
 @snap[east span-40]
 @img[shadow](assets/img/profile.png)
@@ -51,7 +51,7 @@
 ---?color=#00BF81
 @title[テーマ選定8と告知]
 @snap[north span-100 headline]
-### それらは技術書典6でいっか！
+#### それらは技術書典6(こ09)で本出します！
 @snapend
 @img[shadow](assets/img/qrcode.png)
 
@@ -62,9 +62,9 @@
 ---?color=#00BF81
 @title[テーマ決定]
 @snap[north span-100 headline]
-### 勉強会の話をしよう！
+### 個人開発における信仰の話をしよう！
 @snapend
-![](assets/img/presentation.png)
+![](assets/img/god.svg)
 
 ---?color=#00BF81
 @title[勉強会とは？]
