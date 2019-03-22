@@ -1,7 +1,8 @@
 ---?color=#00BF81
 @title[TOP]
 @snap[west span-100 text-white startend]
-@size[4rem](勉強会に参加しよう！)
+@size[4rem](みどりいろモザイク番外編)
+@size[4rem](無思考型個人開発のススメ)
 @snapend
 
 ---?color=#00BF81
@@ -62,25 +63,25 @@
 ---?color=#00BF81
 @title[テーマ決定]
 @snap[north span-100 headline]
-### 個人開発における信仰の話をしよう！
+#### 無思考型個人開発(造語)の話をしよう！
 @snapend
-![](assets/img/god.svg)
+![](assets/img/neet_man.png)
 
 ---?color=#00BF81
 @title[勉強会とは？]
 @snap[north span-100 headline]
-### 勉強会 ≒ カンファレンス
+#### 個人開発はロジックだけ考えて生きたい
 @snapend
 @snap[west span-40]
-- 発表会 <br>
-- LT大会 <br>
-- ハンズオン <br>
-- もくもく会 <br>
-- 輪読会 <br>
-- 交流会　等
+❌ デザイン <br>
+❌ 共通する部品 <br>
+❌ 共通する文言 <br>
+❌ ソースの書式 <br>
+❌ フォルダ構成 <br>
+❌ 環境構築　等
 @snapend
 @snap[east span-60]
-![](assets/img/study.png)
+![](assets/img/neet_woman.png)
 @snapend
 
 ---?color=#00BF81
