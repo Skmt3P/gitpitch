@@ -102,8 +102,14 @@
 @snapend
 
 ---?color=#00BF81
-@title[神]
-### 神託「Prettierとlintを疑ってはならない」
+@title[神託]
+@snap[north span-100 headline]
+#### 神託
+@snapend
+@snap[west span-100]
+### Prettierとlintを疑ってはならない
+@snapend
+
 
 ---?color=#00BF81
 @title[神の導入]
@@ -111,7 +117,8 @@
 #### 神を導入する
 @snapend
 ```
-$ yarn add --dev eslint eslint-config-prettier eslint-plugin-prettier prettier prettier-eslint-cli
+$ yarn add --dev eslint eslint-config-prettier 
+  eslint-plugin-prettier prettier prettier-eslint-cli
 ```
 
 ---?color=#00BF81
@@ -133,6 +140,15 @@ $ yarn add --dev eslint eslint-config-prettier eslint-plugin-prettier prettier p
 @snapend
 ```
 $ yarn format && yarn lint
+```
+
+---?color=#00BF81
+@title[結果]
+@snap[north span-100 headline]
+# 😇
+@snapend
+```
+No problems have been detected in the workspace so far.
 ```
 
 ---?color=#00BF81
