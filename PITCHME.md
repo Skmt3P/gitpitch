@@ -6,7 +6,7 @@
 @size[4rem](無思考型個人開発のススメ)
 @snapend
 
----?color=#00BF81
+---?image=assets/img/profile_green.png
 @title[自己紹介]
 @snap[north-west]
 ### 自己紹介
@@ -19,7 +19,7 @@
 活動：4月からやっとVue案件
 @snapend
 @snap[east span-40]
-@img[shadow](assets/img/profile.png)
+@img[shadow](assets/img/profile_qr.png)
 @snapend
 
 ---?color=#00BF81
@@ -107,7 +107,7 @@
 ## 神託
 @snapend
 @snap[west span-100]
-### Prettierとlintを疑ってはならない
+## Prettierとlintを信じよ
 @snapend
 
 
@@ -152,55 +152,23 @@ No problems have been detected in the workspace so far.
 ```
 
 ---?color=#00BF81
-@title[個人として参加しよう]
+@title[まとめ]
 @snap[north span-100 headline]
-### 個人として参加すると？
+#### 本日のまとめ
 @snapend
-@snap[west span-45]
-- 知見が得られる <br>
-- 交流や**営業**できる <br>
-- フォロワー増える <br>
-- いい経験になる <br>
-- **情報交換**できる
+@snap[west span-55]
+- 個人開発は楽しよう <br>
+- 楽しないとDoneできない <br>
+- 規約とDevOpsを導入しよう <br>
+- MBAが欲しい・・・ <br>
+- 技術書典6よろしくね！
 @snapend
-@snap[east span-55]
-![](assets/img/people.png)
+@snap[east span-45]
+![](assets/img/qrcode.png)
 @snapend
 
 ---?color=#00BF81
-@title[企業として参加しよう]
-@snap[north span-100 headline]
-### 企業として参加すると？
-@snapend
-@snap[west span-55]
-- **ダイマ**できる <br>
-- **採用活動**できる <br>
-- 社員の教育できる <br>
-- フォロワー増える <br>
-- **情報交換**できる
-@snapend
-@snap[east span-45]
-![](assets/img/company.png)
-@snapend
-
----?color=#00BF81
-@title[参加する方法は]
-@snap[north span-100 headline]
-#### 個人ならConnpassから参加！企業なら・・・
-@snapend
-@snap[west span-55]
-- 主催 <br>
-- 会場提供スポンサー <br>
-- 飲食物提供スポンサー <br>
-- 金銭提供パートナー <br>
-- パトロン
-@snapend
-@snap[east span-45]
-![](assets/img/money.png)
-@snapend
-
----?image=assets/img/majan.png
 @title[END]
 @snap[west span-100 text-white startend]
-@size[4rem](良い勉強会ライフを！)
+@size[4rem](良い無思考型個人開発ライフを！)
 @snapend
