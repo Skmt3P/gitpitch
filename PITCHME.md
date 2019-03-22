@@ -9,7 +9,7 @@
 ---?image=assets/img/profile_green.png
 @title[自己紹介]
 @snap[north-west text-white]
-### 自己紹介
+@size[2.5rem](自己紹介)
 @snapend
 @snap[west span-60 text-white]
 名前：坂本さん ( @Skmt3P ) <br>
