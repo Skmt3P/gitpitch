@@ -16,7 +16,7 @@
 肩書：個人事業主/エンジニア <br>
 拠点：**東京都町田市** <br>
 技術：Vue.js, Nuxt.js 他 <br>
-活動：4月からやっとVue案件
+活動：4月からVue案件
 @snapend
 @snap[east span-40]
 @img[shadow](assets/img/profile_qr.png)
@@ -139,6 +139,7 @@ $ yarn add --dev eslint eslint-config-prettier
 ### 神の御技を拝観する
 @snapend
 ```
+// CIで回すと尚良い
 $ yarn format && yarn lint
 ```
 
@@ -152,14 +153,28 @@ No problems have been detected in the workspace so far.
 ```
 
 ---?color=#00BF81
+@title[おまけ1]
+@snap[north span-100 headline]
+#### おまけ1:定数宣言をpluginにまとめる
+@snapend
+![](assets/img/plugin.png)
+
+---?color=#00BF81
+@title[おまけ2]
+@snap[north span-100 headline]
+#### おまけ2:カラーパレットはscssにまとめる
+@snapend
+![](assets/img/scss.png)
+
+---?color=#00BF81
 @title[まとめ]
 @snap[north span-100 headline]
 #### 本日のまとめ
 @snapend
 @snap[west span-65]
 - 個人開発は無思考でいこう <br>
-- 楽しないとDoneできない <br>
 - 規約とDevOpsを導入しよう <br>
+- 定数とか色も使いまわそう <br>
 - MBPが欲しい・・・ <br>
 - 技術書典6よろしくね！
 @snapend
