@@ -103,17 +103,37 @@
 
 ---?color=#00BF81
 @title[神]
-@snap[north span-100 headline]
-#### 神託「Prettierとlintを疑ってはならない」
-@snapend
-@snap[west span-100]
-```
-// eslintのpluginは適宜追加
+### 神託「Prettierとlintを疑ってはならない」
 
+---?color=#00BF81
+@title[神の導入]
+@snap[north span-100 headline]
+#### 神を導入する
+@snapend
+```
 $ yarn add --dev eslint eslint-config-prettier eslint-plugin-prettier prettier prettier-eslint-cli
 ```
-@[2]
+
+---?color=#00BF81
+@title[神を動かす]
+@snap[north span-100 headline]
+#### 神の社を建立する
 @snapend
+```
+"scripts": {
++ "format": "prettier-eslint --write './app/**/*.{js,vue}' && prettier-eslint --write './functions/*.{js,vue}'",
++ "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+}
+```
+
+---?color=#00BF81
+@title[神の御技]
+@snap[north span-100 headline]
+#### 神の御技を拝観する
+@snapend
+```
+$ yarn format && yarn lint
+```
 
 ---?color=#00BF81
 @title[個人として参加しよう]
