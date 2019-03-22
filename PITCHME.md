@@ -90,7 +90,7 @@
 @snap[north span-100 headline]
 #### "Done is better than perfect"とはいうけど
 @snapend
-## Done is MURI !
+# Done is MURI !
 
 ---?color=#00BF81
 @title[だから]
@@ -102,17 +102,15 @@
 @snapend
 
 ---?color=#00BF81
-@title[例えばこんな勉強会]
+@title[神]
 @snap[north span-100 headline]
-#### 考えずに生きていける個人開発にしよう
+#### 神託「Prettierとlintを疑ってはならない」
 @snapend
 @snap[west span-100]
-- ng-japan 2019 <br>
-- We Are JavaScripters! @30th<br>
-- Nuxt+FirebaseでWEBサービスを作るハンズオン <br>
-- 技術書典6 もくもく執筆レビュー会 <br>
-- 基礎から学ぶVue.js 輪読会&もくもく勉強会 <br>
-- NuxtMeetUp　等
+```
+$ yarn add --dev eslint eslint-config-prettier eslint-plugin-prettier prettier prettier-eslint-cli
+```
+@[1][eslintのpluginは適宜追加]
 @snapend
 
 ---?color=#00BF81
