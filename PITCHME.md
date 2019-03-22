@@ -107,7 +107,9 @@
 #### 神託「Prettierとlintを疑ってはならない」
 @snapend
 @snap[west span-100]
-```?gist=Skmt3P/a6e0d63e637a7292b12b15ef124c91fd#file-gitpitch_20190322-1
+```
+// eslintのpluginは適宜追加
+$ yarn add --dev eslint eslint-config-prettier eslint-plugin-prettier prettier prettier-eslint-cli
 ```
 @[2]
 @snapend
