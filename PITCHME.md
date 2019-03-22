@@ -9,7 +9,7 @@
 ---?image=assets/img/profile_green.png
 @title[自己紹介]
 @snap[north-west text-white]
-@size[2.5rem](自己紹介)
+@size[3rem](自己紹介)
 @snapend
 @snap[west span-60 text-white]
 名前：坂本さん ( @Skmt3P ) <br>
@@ -164,7 +164,9 @@ No problems have been detected in the workspace so far.
 @snap[north span-100 headline]
 #### おまけ2:カラーパレットはscssにまとめる
 @snapend
+@snap[south span-100]
 ![](assets/img/scss.png)
+@snapend
 
 ---?color=#00BF81
 @title[まとめ]
