@@ -1,15 +1,13 @@
 ---?color=#00BF81
 @title[TOP]
 @snap[west span-100 text-white startend]
-@size[2rem](みどりいろモザイク番外編)
-<br>
-@size[4rem](無思考型個人開発のススメ)
+@size[4rem](Why Finland)
 @snapend
 
 ---?image=assets/img/profile_green.png
 @title[自己紹介]
 @snap[north-west text-white]
-@size[3rem](自己紹介)
+@size[3rem](Who am I !?)
 @snapend
 @snap[west span-65 text-white]
 名前：坂本さん ( @Skmt3P ) <br>
