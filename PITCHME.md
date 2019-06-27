@@ -1,189 +1,170 @@
 ---?color=#00BF81
 @title[TOP]
 @snap[west span-100 text-white startend]
-@size[4rem](Why Finland)
+@size[4rem](Thinking about easy ways to manage your CV)
 @snapend
 
 ---?image=assets/img/profile_green.png
-@title[自己紹介]
-@snap[north-west text-white]
-@size[3rem](Who am I !?)
+@title[SelfIntroduction]
+@snap[north text-white span-100 headline]
+#### Who am I !?
 @snapend
-@snap[west span-65 text-white]
-名前：坂本さん ( @Skmt3P ) <br>
-肩書：個人事業主/エンジニア <br>
-拠点：**東京都町田市** <br>
-技術：Vue.js, Nuxt.js 他 <br>
-活動：4月からVue案件
+@snap[west span-70 text-white]
+NAME：Sakamoto-san ( @Skmt3P ) <br>
+JOBS：Self-emloyed Engineer <br>
+WHERE：**Machida Tokyo** <br>
+SKILL：Vue, Nuxt <br>
 @snapend
-@snap[east span-35]
+@snap[east span-30]
 @img[shadow](assets/img/profile_qr.png)
 @snapend
 
 ---?color=#00BF81
-@title[テーマ選定1]
-# 今日のテーマどうしよ？
+@title[WannaWorkAt]
+@snap[north span-100 headline]
+#### I wanna work at Northern Europe.
+@snapend
+@img[shadow](assets/img/europe-map.png)
 
 +++?color=#00BF81
-@title[テーマ選定2]
-# Nuxt.js?
+@title[note]
+#### The reason and the current situation are written here.
+@snapend
+@img[shadow](assets/img/qr_note.jpeg)<br>
+@size[1rem](https://note.mu/skmt3p/n/n7e8af5f07797)<br>
+**And I have to write and manage CV**
+
+---?color=#00BF81
+@title[CVis]
+## CV ≒ Resume
 
 +++?color=#00BF81
-@title[テーマ選定3]
-# Firebase?
+@title[CVis]
+## Hassle to write 
 
 +++?color=#00BF81
-@title[テーマ選定4]
-# CircleCI?
+@title[CVis]
+## Hassle to update 
 
 +++?color=#00BF81
-@title[テーマ選定5]
-# 技術書執筆やRe:VIEW?
-
-+++?color=#00BF81
-@title[テーマ選定6]
-# フリーランスの実態?
-
-+++?color=#00BF81
-@title[テーマ選定7]
-# それとも...
+@title[CVis]
+## Hassle to manage
 
 ---?color=#00BF81
-@title[テーマ選定8と告知]
+@title[CVis]
 @snap[north span-100 headline]
-#### それらは技術書典6(こ09)で本出します！
+#### So I want to manage CV with Git(GitHub).
 @snapend
-@img[shadow](assets/img/qrcode.png)
+![](assets/img/GITHUB-icon.png)
 
 ---?color=#00BF81
-@title[テーマ選定9]
-# 今日は！
-
----?color=#00BF81
-@title[テーマ決定]
+@title[HowToManage]
 @snap[north span-100 headline]
-#### 無思考型個人開発(=造語)の話をしよう！
+#### How to manage CV with GitHub.
 @snapend
-![](assets/img/neet_man.png)
+1. Write your profile for ***Linkedin***. <br>
+2. Convert ***Linkedin***'s profile to ***JsonResume***. <br>
+3. Import ***JsonResume*** to ***VeloCV***. <br>
+4. Publish the prototype by ***VeloCV***. <br>
+5. WIP: Manage CV with ***GitHub***.
 
 ---?color=#00BF81
-@title[例]
+@title[LinkedIn]
 @snap[north span-100 headline]
-#### 個人開発はロジックだけ考えて生きたい
+#### 1. Write your Profile for linkedin.
 @snapend
-@snap[west span-40]
-❌ 環境構築 <br>
-❌ デザイン <br>
-❌ 共通する部品 <br>
-❌ フォルダ構成 <br>
-❌ ソースの書式 <br>
-❌ DevOps 等
+@snap[west span-60]
+👍 World wide <br>
+👍 Many Positions <br>
+❌ Not used in Japan <br>
+❌ Hassle to manage <br>
 @snapend
-@snap[east span-60]
-![](assets/img/neet_woman.png)
-@snapend
-
----?color=#00BF81
-@title[主張]
-@snap[north span-100 headline]
-#### "Done is better than perfect"とはいうけど
-@snapend
-# Done is MURI !
-
----?color=#00BF81
-@title[だから]
-@snap[north span-100 headline]
-#### 考えずに生きていける個人開発にしよう
-@snapend
-@snap[west span-100]
-![](assets/img/usingtool.png)
+@snap[east span-40]
+![](assets/img/linkedin_prof.png)
 @snapend
 
 ---?color=#00BF81
-@title[神託]
+@title[Convert]
 @snap[north span-100 headline]
-## 神託
+#### 2. Convert Linkedin's profile to JsonResume.
 @snapend
-@snap[west span-100]
-## Prettierとlintを信じよ！
+@snap[west span-60]
+👍 Very easy <br>
+👍 Able to import to ***VeloCV***  <br>
+❌ Some bugs exist... <br>
+❌ Hassle to click once <br>
 @snapend
-
-
----?color=#00BF81
-@title[神の導入]
-@snap[north span-100 headline]
-### 神を導入する
-@snapend
-```
-$ yarn add --dev eslint eslint-config-prettier 
-  eslint-plugin-prettier prettier prettier-eslint-cli
-```
-
----?color=#00BF81
-@title[神を動かす]
-@snap[north span-100 headline]
-### 神の社を建立する
-@snapend
-```
-"scripts": {
-+ "format": "prettier-eslint --write './app/**/*.{js,vue}' && prettier-eslint --write './functions/*.{js,vue}'",
-+ "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
-}
-```
-
----?color=#00BF81
-@title[神の御技]
-@snap[north span-100 headline]
-### 神の御技を拝観する
-@snapend
-```
-// CIで回すと尚良い
-$ yarn format && yarn lint
-```
-
----?color=#00BF81
-@title[結果]
-@snap[north span-100 headline]
-## 😇
-@snapend
-```
-No problems have been detected in the workspace so far.
-```
-
----?color=#00BF81
-@title[おまけ1]
-@snap[north span-100 headline]
-#### おまけ1:定数宣言をpluginにまとめる
-@snapend
-![](assets/img/plugin.png)
-
----?color=#00BF81
-@title[おまけ2]
-@snap[north span-100 headline]
-#### おまけ2:カラーパレットはscssにまとめる
-@snapend
-@snap[south span-100]
-![](assets/img/scss.png)
+@snap[east span-40]
+![](assets/img/jsonresume_ex.png)
 @snapend
 
 ---?color=#00BF81
-@title[まとめ]
+@title[Import]
 @snap[north span-100 headline]
-#### 本日のまとめ
+#### 3. Import JsonResume to VeloCV.
 @snapend
-@snap[west span-65]
-- 個人開発は無思考でいこう <br>
-- 規約とDevOpsを導入しよう <br>
-- 定数とか色も使いまわそう <br>
-- MBPが欲しい・・・ <br>
-- 技術書典6よろしくね！
+@snap[west span-60]
+👍 Very easy <br>
+👍 Able to deploy to ***VeloCV***  <br>
+❌ Some fixes you need... <br>
+❌ Hassle to fix and click <br>
 @snapend
-@snap[east span-35]
-![](assets/img/qrcode.png)
+@snap[east span-40]
+![](assets/img/velocv_manage.png)
 @snapend
+
+---?color=#00BF81
+@title[Import]
+@snap[north span-100 headline]
+#### 4. Publish the prototype by VeloCV.
+@snapend
+@snap[west span-60]
+👍 Very easy <br>
+👍 No coding <br>
+❌ Some bugs exist... <br>
+❌ Often go down... <br>
+@snapend
+@snap[east span-40]
+![](assets/img/qr_cv.jpeg)
+@snapend
+
+---?color=#00BF81
+@title[Import]
+@snap[north span-100 headline]
+#### 5. WIP: Manage CV with GitHub.
+@snapend
+@snap[west span-60]
+👍 Easy to manage <br>
+👍 Issue, PR, Wiki, README <br>
+❌ Need deliverables <br>
+❌ Decide the rules to manage <br>
+@snapend
+@snap[east span-40]
+![](assets/img/github.png)
+@snapend
+
+---?color=#00BF81
+@title[HowToManage2]
+@snap[north span-100 headline]
+#### How to manage CV with GitHub
+@snapend
+1. Write your profile for ***Linkedin*** <br>
+2. Convert ***Linkedin***'s profile to ***JsonResume*** <br>
+3. Import ***JsonResume*** to ***VeloCV*** <br>
+4. Publish the prototype by ***VeloCV*** <br>
+5. WIP: Manage CV with ***GitHub***
+
+---?color=#00BF81
+@title[summary]
+@snap[north span-100 headline]
+#### Please tell me...
+@snapend
+1. Better ways to manage CV <br>
+2. The easiest way to become able to use English <br>
+3. The easiest way to work at Northern Europe <br>
 
 ---?color=#00BF81
 @title[END]
 @snap[west span-100 text-white startend]
-@size[3rem](良い無思考型個人開発ライフを！)
+@size[3rem](Thanks!!)
 @snapend
